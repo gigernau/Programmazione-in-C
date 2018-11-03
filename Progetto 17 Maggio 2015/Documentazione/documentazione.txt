@@ -1,0 +1,71 @@
+﻿A.D.T. Complex
+
+
+								    Created by Gianluca DeLucia
+											   N86001826)             								gian.delucia@studenti.unina.it 
+
+
+
+
+	SCOPO: 
+		Sviluppare ogni possibile operazione su due numeri complessi.
+
+
+	SPECIFICHE:
+		
+		
+
+	DESCRIZIONE:
+		a) Background del problema:
+ 
+		Calcolare: 1) Prodotto Scalare
+			   2) Prodotto Matrice per Vettore
+			   3) Prodotto Matrice per Matrice
+			   4) Trasposizione Matric
+
+		b) Algoritmo:
+			
+			
+
+
+
+	RIFERIMENTI BIBLIOGRAFICI:
+
+	http://www.federica.unina.it/corsi/programmazione-ii-laboratorio/
+	A. Murli, G. Laccetti,Laboratorio di Programmazione I, Ed. Liguori.
+	Criscuolo, F.P. Tramontano, Introduzione alla Programmazione, Algoritmi 	Imperativi in C++, Ed. Manna.
+	G. Dromey, Algoritmi fondamentali, Ed. Jackson.
+	B. Kernighan, D. Ritchie, Linguaggio C, Ed. Jackson.
+	H. M. Deitel, P. J.Deitel, Corso completo di programmazione, Ed. Apogeo.
+
+
+
+
+	LISTA DEI PARAMETRI:
+		
+		int a[100], b[100], A[100][100], B[100][100], C[100][100]; modificati in output.
+		int x, n, m, l, p, o; invariti in output.
+		char risp; invariato in  output;
+
+	INDICATORI DI ERRORI:
+		Nessuno.
+
+
+	PROCEDURE AUSILIARIE:
+		Nessuna.
+
+	
+	
+	RACCOMANDAZIONI SULL'USO:
+		
+
+
+
+	ESEMPIO D'USO:
+		a) Esempio di programma chiamante:
+		
+
+
+		b)Esempio di esecuzione:
+
+
